@@ -336,7 +336,7 @@ header
 }
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #152580!important;
+
 }
 
 .background-header .main-nav .nav li:hover a {
@@ -691,13 +691,13 @@ header
   }
   .header-area {
     background-color: #f7f7f7;
-    padding: 0px 0px;
+    padding: 5px 0px;
     height: 80px;
     box-shadow: none;
     text-align: left;
   }
   .header-area .container {
-    padding: 0px;
+    padding: 5px;
   }
   .header-area .logo {
     margin-left: 10px;
@@ -728,7 +728,7 @@ header
     width: 100%;
     background: #fff;
     border-bottom: 1px solid #eee;
-    padding-left: 0px !important;
+    padding-left: 20px !important;
     padding-right: 0px !important;
   }
   .header-area .main-nav .nav li a {
