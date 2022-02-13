@@ -334,10 +334,10 @@ header
 .logofontblue{
   color: #2152bb;
 }
-.background-header .logo,
+/* .background-header .logo,
 .background-header .main-nav .nav li a {
 
-}
+} */
 
 .background-header .main-nav .nav li:hover a {
   color: #5fb759!important;
