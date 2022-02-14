@@ -347,6 +347,7 @@ header
   background: transparent;
 }
 
+
 @media (max-width: 600px) {
   .logo{
     font-size: 27px;
@@ -357,6 +358,7 @@ header
   .logo{
     font-size: 35px;
     letter-spacing: 1px;
+    margin-top: 3px;
   }
 }
 
