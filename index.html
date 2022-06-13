@@ -5,5 +5,14 @@
 
   </head>
   <body>
-    <a href="itms-services://?action=download-manifest&url=https://link5412.github.io/manifest.plist">     Install Brighta test1 !</a>
+
+    <Button onclick=onButtonClick> Download Bright </Button>
+
   </body>
+
+
+  <script>
+    function onButtonClick() {
+      open("itms-services://?action=download-manifest&url=https://link5412.github.io/manifest.plist")
+    }
+    </script>
