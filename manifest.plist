@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bright.54123</string>
+				<string>com.example.bright</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
