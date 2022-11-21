@@ -104,11 +104,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-<<<<<<< HEAD
-					<string>9.4.0</string>
-=======
 					<string>10.2.0</string>
->>>>>>> fdcdda4 (update)
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -136,39 +132,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-<<<<<<< HEAD
-					<string>9.4.0</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>59F7929A7AB3443940349D20481B3C58D0BAD9F1</string>
-						<key>dateExpires</key>
-						<string>05.06.23</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>FirebaseCoreDiagnostics.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>79963RP9BA</string>
-						<key>name</key>
-						<string></string>
-					</dict>
-					<key>versionNumber</key>
-					<string>9.5.0</string>
-=======
 					<string>10.2.0</string>
->>>>>>> fdcdda4 (update)
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -196,11 +160,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-<<<<<<< HEAD
-					<string>9.5.0</string>
-=======
 					<string>10.2.0</string>
->>>>>>> fdcdda4 (update)
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -228,67 +188,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-<<<<<<< HEAD
-					<string>9.4.0</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>59F7929A7AB3443940349D20481B3C58D0BAD9F1</string>
-						<key>dateExpires</key>
-						<string>05.06.23</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>FirebaseInstallations.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>79963RP9BA</string>
-						<key>name</key>
-						<string></string>
-					</dict>
-					<key>versionNumber</key>
-					<string>9.5.0</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>59F7929A7AB3443940349D20481B3C58D0BAD9F1</string>
-						<key>dateExpires</key>
-						<string>05.06.23</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>FirebaseMessaging.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>79963RP9BA</string>
-						<key>name</key>
-						<string></string>
-					</dict>
-					<key>versionNumber</key>
-					<string>9.4.0</string>
-=======
 					<string>10.2.0</string>
->>>>>>> fdcdda4 (update)
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -344,39 +244,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-<<<<<<< HEAD
-					<string>2.1.0</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>59F7929A7AB3443940349D20481B3C58D0BAD9F1</string>
-						<key>dateExpires</key>
-						<string>05.06.23</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>GoogleDataTransport.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>79963RP9BA</string>
-						<key>name</key>
-						<string></string>
-					</dict>
-					<key>versionNumber</key>
-					<string>9.2.0</string>
-=======
 					<string>3.0.0</string>
->>>>>>> fdcdda4 (update)
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -404,9 +272,6 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-<<<<<<< HEAD
-					<string>7.7.0</string>
-=======
 					<string>7.10.0</string>
 				</dict>
 				<dict>
@@ -436,7 +301,6 @@
 					</dict>
 					<key>versionNumber</key>
 					<string>3.21.9</string>
->>>>>>> fdcdda4 (update)
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -483,8 +347,6 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-<<<<<<< HEAD
-=======
 					<string>flutter_blue.framework</string>
 					<key>team</key>
 					<dict>
@@ -541,7 +403,6 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
->>>>>>> fdcdda4 (update)
 					<string>grpc.framework</string>
 					<key>team</key>
 					<dict>
@@ -697,13 +558,7 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-<<<<<<< HEAD
-				<string>79963RP9BA.com.bright.54123</string>
-				<key>aps-environment</key>
-				<string>production</string>
-=======
 				<string>79963RP9BA.com.example.bright</string>
->>>>>>> fdcdda4 (update)
 				<key>com.apple.developer.team-identifier</key>
 				<string>79963RP9BA</string>
 				<key>get-task-allow</key>
@@ -714,11 +569,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-<<<<<<< HEAD
-				<string>0d445084-4a15-4098-a621-db8b7450c815</string>
-=======
 				<string>3af5acbd-a9f7-4267-b0a1-ad034a376615</string>
->>>>>>> fdcdda4 (update)
 				<key>dateExpires</key>
 				<string>05.06.23</string>
 				<key>name</key>
