@@ -67,6 +67,34 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>AppAuth.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>79963RP9BA</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.6.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>59F7929A7AB3443940349D20481B3C58D0BAD9F1</string>
+						<key>dateExpires</key>
+						<string>05.06.23</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>FBLPromises.framework</string>
 					<key>team</key>
 					<dict>
@@ -104,7 +132,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-					<string>10.2.0</string>
+					<string>10.3.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -132,7 +160,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-					<string>10.2.0</string>
+					<string>10.3.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -160,7 +188,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-					<string>10.2.0</string>
+					<string>10.3.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -188,7 +216,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-					<string>10.2.0</string>
+					<string>10.3.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -235,6 +263,34 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>GTMAppAuth.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>79963RP9BA</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.3.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>59F7929A7AB3443940349D20481B3C58D0BAD9F1</string>
+						<key>dateExpires</key>
+						<string>05.06.23</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>GTMSessionFetcher.framework</string>
 					<key>team</key>
 					<dict>
@@ -244,7 +300,35 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-					<string>3.0.0</string>
+					<string>2.3.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>59F7929A7AB3443940349D20481B3C58D0BAD9F1</string>
+						<key>dateExpires</key>
+						<string>05.06.23</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleSignIn.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>79963RP9BA</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+					<key>versionNumber</key>
+					<string>6.2.4</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -300,7 +384,7 @@
 						<string></string>
 					</dict>
 					<key>versionNumber</key>
-					<string>3.21.9</string>
+					<string>3.21.11</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -348,34 +432,6 @@
 					</dict>
 					<key>name</key>
 					<string>flutter_blue.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>79963RP9BA</string>
-						<key>name</key>
-						<string></string>
-					</dict>
-					<key>versionNumber</key>
-					<string>0.0.1</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>59F7929A7AB3443940349D20481B3C58D0BAD9F1</string>
-						<key>dateExpires</key>
-						<string>05.06.23</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>flutter_native_timezone.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -543,6 +599,62 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>path_provider_ios.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>79963RP9BA</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>59F7929A7AB3443940349D20481B3C58D0BAD9F1</string>
+						<key>dateExpires</key>
+						<string>05.06.23</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>sign_in_with_apple.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>79963RP9BA</string>
+						<key>name</key>
+						<string></string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>59F7929A7AB3443940349D20481B3C58D0BAD9F1</string>
+						<key>dateExpires</key>
+						<string>05.06.23</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>uv.framework</string>
 					<key>team</key>
 					<dict>
@@ -559,6 +671,10 @@
 			<dict>
 				<key>application-identifier</key>
 				<string>79963RP9BA.com.example.bright</string>
+				<key>com.apple.developer.applesignin</key>
+				<array>
+					<string>Default</string>
+				</array>
 				<key>com.apple.developer.team-identifier</key>
 				<string>79963RP9BA</string>
 				<key>get-task-allow</key>
@@ -569,7 +685,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>3af5acbd-a9f7-4267-b0a1-ad034a376615</string>
+				<string>a30f35ef-01f3-4d0c-95b9-beada993adf7</string>
 				<key>dateExpires</key>
 				<string>05.06.23</string>
 				<key>name</key>
