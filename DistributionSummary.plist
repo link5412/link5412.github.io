@@ -670,7 +670,7 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>79963RP9BA.com.example.bright</string>
+				<string>79963RP9BA.com.bright.54123</string>
 				<key>com.apple.developer.applesignin</key>
 				<array>
 					<string>Default</string>
@@ -685,11 +685,11 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>a30f35ef-01f3-4d0c-95b9-beada993adf7</string>
+				<string>98e6ded2-982e-4106-8e2c-b5c12197cd29</string>
 				<key>dateExpires</key>
 				<string>05.06.23</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.example.bright</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.bright.54123</string>
 			</dict>
 			<key>team</key>
 			<dict>
